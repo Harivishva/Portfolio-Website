@@ -380,7 +380,7 @@ select,
     display: flex;
     flex-direction: column;
     gap: 30px;
-    padding: 50px 40px;
+    padding: 10px 40px;
 }
 
 .projects {
